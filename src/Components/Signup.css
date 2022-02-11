@@ -1,0 +1,25 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.signup-wrapper{
+    width: 27vw;
+}
+.signup-img{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto 0px;
+    height: 10vh;
+}
+.inputs{
+    width: 100%;
+}
+.signup-para{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+.links{
+    text-decoration: none;
+}

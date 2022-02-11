@@ -1,0 +1,38 @@
+.login{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+.login-wrapper{
+    width: 27vw;
+    margin-top: 7%;
+}
+.login-img{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto 0px;
+    height: 10vh;
+}
+.inputs{
+    width: 100%;
+}
+.login-para{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+.links{
+    text-decoration: none;
+}
+.img-carousel{
+    height: 590px;
+    width: 441px;
+    position: relative;
+}
+.img-card{
+    position: absolute;
+    height: 423px;
+    width: 241px;
+    left: 143px;
+    top: 93px;
+}
